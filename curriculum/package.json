@@ -63,7 +63,7 @@
     "rework-visit": "^1.0.0",
     "rx": "^4.1.0",
     "string-similarity": "^4.0.2",
-    "unified": "^9.2.0",
+    "unified": "^10.0.0",
     "unist-util-visit": "^2.0.3",
     "validator": "^10.4.0",
     "vfile": "^4.2.0"
